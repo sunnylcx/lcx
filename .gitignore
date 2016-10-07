@@ -1,0 +1,11 @@
+*.[oa]
+*~
+*.pyc
+!test.pyc
+\!test.py
+foo/
+**/res
+build/
+Documentation
+src/
+DS_Store
